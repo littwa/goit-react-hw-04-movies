@@ -1,0 +1,15 @@
+body {
+ font-family: Roboto, Arial, Helvetica, sans-serif;
+ font-size: 14px;
+}
+.container {
+ display: flex;
+}
+
+.description {
+ padding-left: 10px;
+}
+.img {
+ width: 200px;
+ max-height: 345px;
+}
